@@ -32,6 +32,7 @@ Include the following:
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
+## Results
 ### Highest-Performing Schools (by % Overall Passing)
 Sort the schools by % Overall Passing in descending order and display the top 5 rows.
 Save the results in a DataFrame called "top_schools".
