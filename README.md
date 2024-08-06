@@ -18,6 +18,8 @@ Include the following:
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
+<img src="Pics/District Summary.png" width="1003" height="72">
+
 ## School Summary
 Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school.
 Include the following:
@@ -32,27 +34,39 @@ Include the following:
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
+<img src="Pics/School Summary.png" width="1303" height="420">
+
 ## Results
 ### Highest-Performing Schools (by % Overall Passing)
 Sort the schools by % Overall Passing in descending order and display the top 5 rows.
 Save the results in a DataFrame called "top_schools".
 
+<img src="Pics/Highest-Performing Schools.png" width="1300" height="185">
+
 ### Lowest-Performing Schools (by % Overall Passing)
 Sort the schools by % Overall Passing in ascending order and display the top 5 rows.
 Save the results in a DataFrame called "bottom_schools".
 
+<img src="Pics/Lowest-Performing Schools.png" width="1307" height="183">
+
 ### Math Scores by Grade
 Perform the necessary calculations to create a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
+<img src="Pics/Math Scores by Grade.png" width="479" height="393">
+
 ### Reading Scores by Grade
 Create a DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
+<img src="Pics/Reading Scores by Grade.png" width="481" height="393">
 
 ### Scores by School Spending
 Create a table that breaks down school performance based on average spending ranges (per student).
 Use the code provided below to create four bins with reasonable cutoff values to group school spending.
 
 
-
+<img src="Pics/School Summary.png" width="1303" height="420">
+<img src="Pics/School Size Breakdown.png" width="841" height="141">
+<img src="Pics/School Type Breakdown.png" width="789" height="125">
 
 
 
