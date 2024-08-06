@@ -1,3 +1,5 @@
+<img src="Pics/Header2.png" width="696" height="433">
+
 # pandas-challenge
 For the #4 Pandas -Challenge, I imported my dependencies pandas as pd, and set my path to my resource files, schools_complete.csv and students_complete.csv.  These newly created data frames school_data dataframes(df) & student_data df were then merged into school_data_complete df.  District wide variables student_count, total_budget, average_math_score, average_reading_score, passing_math_count, passing_reading_count, passing_math_percentage, passing_reading_percentage, passing_math_reading_count & overall_passing_rate was tabulated and placed in District_Summary df.  The District_Summary df was then utilized to produce a district wide summary table for viewing.  
 
