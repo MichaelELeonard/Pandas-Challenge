@@ -1,4 +1,4 @@
-<img src="Pics/Header2.png" width="696" height="433">
+<img src="Pics/Header.png" width="696" height="433">
 
 # Pandas-Challenge
 
