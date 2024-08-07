@@ -36,7 +36,6 @@ Include the following:
 
 <img src="Pics/School Summary.png" width="1303" height="420">
 
-## Results
 ### Highest-Performing Schools (by % Overall Passing)
 Sort the schools by % Overall Passing in descending order and display the top 5 rows.
 Save the results in a DataFrame called "top_schools".
@@ -68,8 +67,8 @@ Use the code provided below to create four bins with reasonable cutoff values to
 <img src="Pics/School Size Breakdown.png" width="841" height="141">
 <img src="Pics/School Type Breakdown.png" width="789" height="125">
 
+## Results
 
-PyCitySchools School Data Analysis – Final Assessment
 When examining the results from the data analysis of the PyCitySchools District High Schools, some interesting results can be seen.  These results include:
 * District statistics were tabulated looking at students from all 15 PyCitySchools high schools examining passing rates for reading and math (>70%).  The district wide passing rate for math was 74.98% while the district wide passing rate for reading was 85.80%.  The rate for students passing both math and reading was 65.17%.
 * The analysis was then broken down by High School outlining the School Type (District/Charter), the total school budget, the dollar amount invested per student, and the passing rates for each institution.  This analysis seemed to show a direct correlation between student population and scholastic success.
