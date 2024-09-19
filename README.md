@@ -43,12 +43,10 @@ A school summary was established highlighting key metrics for each school.  Thes
 <img src="Pics/Lowest-Performing Schools.png" width="1307" height="183">
 
 ### Math Scores by Grade
-Perform the necessary calculations to create a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 <img src="Pics/Math Scores by Grade.png" width="479" height="393">
 
 ### Reading Scores by Grade
-Create a DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 <img src="Pics/Reading Scores by Grade.png" width="481" height="393">
 
