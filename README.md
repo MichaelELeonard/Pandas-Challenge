@@ -51,8 +51,6 @@ A school summary was established highlighting key metrics for each school.  Thes
 <img src="Pics/Reading Scores by Grade.png" width="481" height="393">
 
 ### Scores by School Spending
-Create a table that breaks down school performance based on average spending ranges (per student).
-Use the code provided below to create four bins with reasonable cutoff values to group school spending.
 
 
 <img src="Pics/School Summary.png" width="1303" height="420">
