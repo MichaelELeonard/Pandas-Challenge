@@ -66,6 +66,6 @@ When examining the results from the data analysis of the PyCitySchools District 
   * The five highest performing schools were all Charter schools while all the five lowest performing schools were all District schools.  
   * The high performing Charters schools spent less dollars per student than the lowest performing District schools, showing that Charter schools were able to achieve higher scholastic performance at an overall reduced cost.
   * Charter schools had significantly lower student populations, frequently being half of their District school counterparts.
-  * When examining the reading and math scores per school for 9th-12th graders, the scores remained consistent across the four years.
+  * When examining the reading and math scores per school for 9th-12th graders, student scores remained consistent across the four years.
   * When examining statistics spanning school type, student population, school financials and test scores, higher test scores seem to correlate with a lower student population vs dollar spending at both the institution and student level.
   * The correlation between scholastic success and student population can by clearly observed when comparing schools by size, with students attending institutions with than 2000 students passing both reading and math tests at a rate of 90.43% vs institutions with a student population between 2000-5000 passing both reading and math tests at a rate of 58.28%.   
