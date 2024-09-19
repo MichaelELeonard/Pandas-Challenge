@@ -35,14 +35,10 @@ A school summary was established highlighting key metrics for each school.  Thes
 <img src="Pics/School Summary.png" width="1303" height="420">
 
 ### Highest-Performing Schools (by % Overall Passing)
-Sort the schools by % Overall Passing in descending order and display the top 5 rows.
-Save the results in a DataFrame called "top_schools".
 
 <img src="Pics/Highest-Performing Schools.png" width="1300" height="185">
 
 ### Lowest-Performing Schools (by % Overall Passing)
-Sort the schools by % Overall Passing in ascending order and display the top 5 rows.
-Save the results in a DataFrame called "bottom_schools".
 
 <img src="Pics/Lowest-Performing Schools.png" width="1307" height="183">
 
