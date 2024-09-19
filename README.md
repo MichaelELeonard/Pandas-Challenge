@@ -20,8 +20,7 @@ A high-level snapshot of the district's key metrics include the following:
 <img src="Pics/District Summary.png" width="1003" height="72">
 
 ## School Summary
-A dataframe was established summarizing key metrics for each school.
-The metrics include:
+A school summary was established highlighting key metrics for each school.  These metrics include:
 * School name
 * School type
 * Total students
