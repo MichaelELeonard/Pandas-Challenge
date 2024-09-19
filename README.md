@@ -63,7 +63,7 @@ When examining the results from the data analysis of the PyCitySchools District 
 * District statistics were tabulated looking at students from all 15 PyCitySchools High Schools examining passing rates for reading and math (>70%).  The district wide passing rate for math was 74.98%, while the district wide passing rate for reading was 85.80%.  The rate for students passing both math and reading was 65.17%.
 * The analysis examined School Type (District/Charter), total school budget, dollar amount invested per student, and the passing rates for each institution.  This analysis seemed to show a direct correlation between student population and scholastic success.
 * The results were categorized into the top five and top five lowest performing schools in the district. Notable trends include:
-  * All five highest performing schools were Charter schools while all the five lowest performing schools were District schools.  
+  * The five highest performing schools were all Charter schools while all the five lowest performing schools were all District schools.  
   * The high performing Charters schools spent less dollars per student than the lowest performing District schools, showing that charter schools were able to achieve higher scholastic performance at an overall reduced cost.
   * Charter schools had significantly lower student populations, frequently being half of their District school counterparts.
   * When examining the reading and math scores per school for 9th-12th graders, the scores remained consistent across the four years.
