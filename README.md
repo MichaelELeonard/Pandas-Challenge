@@ -7,8 +7,7 @@ For this challenge I have been placed in the role of Chief Data Scientist for my
 As a first task, I've been asked to analyze the district-wide standardized test results. I’ve been given access to every student's math and reading scores, as well as various information on the schools they attend. My task is to aggregate the data to showcase obvious trends in school performance.
 
 ## District Summary
-Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a dataframe.
-Include the following:
+A high-level snapshot of the district's key metrics include the following:
 * Total number of unique schools
 * Total students
 * Total budget
