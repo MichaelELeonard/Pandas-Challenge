@@ -59,7 +59,7 @@ A school summary was established highlighting key metrics for each school.  Thes
 
 ## Results
 
-When examining the results from the data analysis of the PyCitySchools District High Schools, some interesting results can be seen.  These results include:
+When examining the results from the data analysis of the PyCitySchools District High Schools, some interesting results can be observed.  These results include:
 * District statistics were tabulated looking at students from all 15 PyCitySchools High Schools examining passing rates for reading and math (>70%).  The district wide passing rate for math was 74.98% while the district wide passing rate for reading was 85.80%.  The rate for students passing both math and reading was 65.17%.
 * The analysis was then broken down by high school outlining the School Type (District/Charter), the total school budget, the dollar amount invested per student, and the passing rates for each institution.  This analysis seemed to show a direct correlation between student population and scholastic success.
 * The results were categorized into the top five and top five lowest performing schools in the district. Notable trends include:
