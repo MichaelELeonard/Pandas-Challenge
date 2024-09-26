@@ -53,14 +53,19 @@ A school summary was established highlighting key metrics for each school.  Thes
 
 <img src="Pics/Reading Scores by Grade.png" width="481" height="393">
 
-### Scores by School Spending
-
+### Per School Student Spending Range
 
 <img src="Pics/Scores by School Spending by Student.png" width="1440" height="372">
+
+### Scores Per School Size
+
 <img src="Pics/School Size Breakdown.png" width="841" height="141">
+
+### Scores Per School Type
+
 <img src="Pics/School Type Breakdown.png" width="789" height="125">
 
-## Results
+## Analysis
 
 When examining the results from the data analysis of the PyCitySchools District High Schools, some interesting results can be observed.  These results include:
 * The district wide passing rate for math was 74.98%, while the district wide passing rate for reading was 85.80%.  The rate for students passing both math and reading was 65.17%.
