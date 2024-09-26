@@ -45,18 +45,18 @@ A school summary was established highlighting key metrics for each school.  Thes
 
 <img src="Pics/Lowest-Performing Schools.png" width="1307" height="183">
 
-### Math Scores by Grade
+### Math Scores Per School by Grade
 
 <img src="Pics/Math Scores by Grade.png" width="479" height="393">
 
-### Reading Scores by Grade
+### Reading Scores Per School by Grade
 
 <img src="Pics/Reading Scores by Grade.png" width="481" height="393">
 
 ### Scores by School Spending
 
 
-<img src="Pics/School Summary.png" width="1303" height="420">
+<img src="Pics/ Scores by School Spending by Student.png" width="1516" height="392">
 <img src="Pics/School Size Breakdown.png" width="841" height="141">
 <img src="Pics/School Type Breakdown.png" width="789" height="125">
 
