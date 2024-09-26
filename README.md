@@ -53,7 +53,7 @@ A school summary was established highlighting key metrics for each school.  Thes
 
 <img src="Pics/Reading Scores by Grade.png" width="481" height="393">
 
-### School Student Spending Range
+### Per Student Spending Range by School
 
 <img src="Pics/Scores by School Spending by Student.png" width="1516" height="392">
 
