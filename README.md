@@ -56,7 +56,7 @@ A school summary was established highlighting key metrics for each school.  Thes
 ### Scores by School Spending
 
 
-<img src="Pics/ Scores by School Spending by Student.png" width="1516" height="392">
+<img src="Pics/Scores by School Spending by Student.png" width="1516" height="392">
 <img src="Pics/School Size Breakdown.png" width="841" height="141">
 <img src="Pics/School Type Breakdown.png" width="789" height="125">
 
