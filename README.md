@@ -37,11 +37,11 @@ A school summary was established highlighting key metrics for each school.  Thes
 
 ## Results
 
-### Highest-Performing Schools (by % Overall Passing)
+### District Highest-Performing Schools (by % Overall Passing)
 
 <img src="Pics/Highest-Performing Schools.png" width="1300" height="185">
 
-### Lowest-Performing Schools (by % Overall Passing)
+### District Lowest-Performing Schools (by % Overall Passing)
 
 <img src="Pics/Lowest-Performing Schools.png" width="1307" height="183">
 
