@@ -35,6 +35,8 @@ A school summary was established highlighting key metrics for each school.  Thes
 
 <img src="Pics/School Summary.png" width="1303" height="420">
 
+## Results
+
 ### Highest-Performing Schools (by % Overall Passing)
 
 <img src="Pics/Highest-Performing Schools.png" width="1300" height="185">
