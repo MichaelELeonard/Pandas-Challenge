@@ -55,7 +55,7 @@ A school summary was established highlighting key metrics for each school.  Thes
 
 ### School Student Spending Range
 
-<img src="Pics/Scores by School Spending by Student.png" width="1440" height="372">
+<img src="Pics/Scores by School Spending by Student.png" width="1516" height="392">
 
 ### Scores Per School Size
 
